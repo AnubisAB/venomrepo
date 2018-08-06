@@ -8,7 +8,7 @@
 
 <dir>
         <name>[B][COLORorangered]One Click Movies[/COLOR][/B]</name>
-        <link>http://androidbboy.xyz/anubis/movies/newreal.xml</link>
+        <link>https://raw.githubusercontent.com/AnubisAB/venomrepo/master/_xmls/anubis/movies/newreal.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
         <animated_fanart></animated_fanart>
@@ -17,7 +17,7 @@
 
 <dir>
         <name>[COLORorangered]Cinema[/COLOR]</name>
-        <link>http://androidbboy.xyz/anubis/movies/movies.xml</link>
+        <link>https://raw.githubusercontent.com/AnubisAB/venomrepo/master/_xmls/anubis/movies/movies.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://lh3.googleusercontent.com/sSfN9T6_zXdUlNjh35gdgkFUy2MsxWJMrNYvZJZJl6u1ufIMFOQJ4xAzSGE_lBidG8M</thumbnail>
         <animated_fanart></animated_fanart>
@@ -26,7 +26,7 @@
 
 <dir>
         <name>[COLORorangered]The Tube[/COLOR]</name>
-        <link>http://androidbboy.xyz/anubis/tv/tvshows.xml</link>
+        <link>https://raw.githubusercontent.com/AnubisAB/venomrepo/master/_xmls/anubis/tv/tvshows.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://lh3.googleusercontent.com/2k7lxebvFChpKI-9Y-O2MjsEK7XtQA1JypbpYcoBScQtkAt13GUyFUCCguTU2nQ4Atg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -35,9 +35,9 @@
 
 <dir>
         <name>[B][COLORorangered]Isis Place[/COLOR][/B]</name>
-        <link>http://androidbboy.xyz/anubis/isis/isis.xml</link>
+        <link>https://raw.githubusercontent.com/AnubisAB/venomrepo/master/_xmls/anubis/isis/isis.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>http://androidbboy.xyz/anubis/art/isis-1.jpg</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/AnubisAB/venomrepo/master/_xmls/anubis/art/isis-1.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>

@@ -22,7 +22,7 @@ import base64
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "aHR0cHM6Ly9pcm9uaGlkZS4wMDB3ZWJob3N0YXBwLmNvbS9hbnViaXMvbWFpbi54bWw="  # url of the root xml file
+root_xml_url = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FudWJpc0FCL3Zlbm9tcmVwby9tYXN0ZXIvX3htbHMvYW51YmlzL21haW4ueG1s"  # url of the root xml file
 if not 'file:' in root_xml_url and not 'http' in root_xml_url:
     root_xml_url = root_xml_url.decode('base64')
 __builtin__.tvdb_api_key = ""  # tvdb api key
