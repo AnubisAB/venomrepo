@@ -1,0 +1,113 @@
+<item>
+<title>[B][COLORorangered]Thank you for using Anubis[/COLOR][/B]</title>
+</item>
+
+<item>
+<title>[COLORorangered]Working on growing the One click list also[/COLOR]</title>
+</item>
+
+<dir>
+        <name>[B][COLORorangered]One Click Movies[/COLOR][/B]</name>
+        <link>http://androidbboy.xyz/anubis/movies/newreal.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[COLORorangered]Cinema[/COLOR]</name>
+        <link>http://androidbboy.xyz/anubis/movies/movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://lh3.googleusercontent.com/sSfN9T6_zXdUlNjh35gdgkFUy2MsxWJMrNYvZJZJl6u1ufIMFOQJ4xAzSGE_lBidG8M</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[COLORorangered]The Tube[/COLOR]</name>
+        <link>http://androidbboy.xyz/anubis/tv/tvshows.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://lh3.googleusercontent.com/2k7lxebvFChpKI-9Y-O2MjsEK7XtQA1JypbpYcoBScQtkAt13GUyFUCCguTU2nQ4Atg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORorangered]Isis Place[/COLOR][/B]</name>
+        <link>http://androidbboy.xyz/anubis/isis/isis.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://androidbboy.xyz/anubis/art/isis-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORorangered]Urban[/COLOR]</title>
+<imdburl>list/ls054431555</imdburl>
+<thumbnail>https://pbs.twimg.com/profile_images/982152932559761411/lpm25LK4.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLORorangered]Blaxploitation[/COLOR]</title>
+<imdburl>list/ls058887687</imdburl>
+<thumbnail>http://www.absurdcovers.com/images/pages/CD-COVERS/BLAXPLOITATION.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[I][COLORorangered]Hip Hop Films[/I][/COLOR]</title>
+<imdburl>list/ls063099039</imdburl>
+<thumbnail>http://poppath.com/wp-content/uploads/2017/01/graffiti-hiphop-thumbnail-2.png</thumbnail>
+</dir>
+
+<dir>
+<title>[COLORorangered]Stand up Comedy[/COLOR]</title>
+<imdburl>list/ls059109654</imdburl>
+<thumbnail>https://pbs.twimg.com/profile_images/615197316467679232/ojrVmCDV.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLORorangered]Documentaries[/COLOR]</title>
+<imdburl>list/ls000434410</imdburl>
+<thumbnail>https://pbs.twimg.com/profile_images/923125616295206913/sp5a6a_P.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLORorangered]Latin Films[/COLOR]</title>
+<imdburl>list/ls031522796</imdburl>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61IQwAxeM7L.png</thumbnail>
+</dir>
+
+
+<plugin>
+<title>[COLORorangered]DIY[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLkoA185FDMCMyOYtAWLOXqvReueaJUhnU/</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/515RmqWaxEL.png</thumbnail>
+</plugin>
+
+<plugin>
+<name>[B][COLORorangered]Real Debrid Login[/COLOR][/B]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
+</plugin>
+
+<dir>
+  <title>Search Trakt</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+      <title>Search</title>
+      <tmdb>search</tmdb>
+</dir>
+
+<dir>
+<title>Search Internet Movies</title>
+<tmdb>search</tmdb>
+</dir>
+
+<plugin>
+<name>Settings</name>
+<link>plugin://plugin.video.anubis/?action=openSettings</link>
+<thumbnail>http://files.softicons.com/download/system-icons/irob-icons-by-robsonbillponte/png/512/Settings.png</thumbnail>
+</plugin>
