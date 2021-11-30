@@ -1,18 +1,21 @@
-<item>
-<title>[B][COLORorangered]Thank you for using Anubis[/COLOR][/B]</title>
-</item>
+13et5553et<xml>
 
 <item>
-<title>[COLORorangered]Working on growing the One click list also[/COLOR]</title>
+<title>[B][COLORorangered]Thank you for using the Mad Hatter Addon[/COLOR][/B]</title>
 </item>
 
 <dir>
-        <name>[B][COLORorangered]One Click Movies[/COLOR][/B]</name>
-        <link>https://raw.githubusercontent.com/AnubisAB/venomrepo/master/_xmls/anubis/movies/newreal.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
+	<name>Collection for kids</name>
+	<link>https://xmls.encrypticmh.appboxes.co/collections/kids_boxset.xml</link>
+	<thumbnail>https://repo.encrypticmh.appboxes.co/bones/matrix/zips/plugin.video.thewatcher/icon.png</thumbnail>
+	<fanart>https://repo.encrypticmh.appboxes.co/bones/matrix/zips/plugin.video.thewatcher/fanart.jpg</fanart>
+</dir>
+
+<dir>
+	<name>Collection Of Horror</name>
+	<link>https://xmls.encrypticmh.appboxes.co/collections/horrorbs.xml</link>
+	<thumbnail>https://repo.encrypticmh.appboxes.co/bones/matrix/zips/plugin.video.thewatcher/icon.png</thumbnail>
+	<fanart>https://repo.encrypticmh.appboxes.co/bones/matrix/zips/plugin.video.thewatcher/fanart.jpg</fanart>
 </dir>
 
 <dir>
@@ -85,29 +88,5 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/515RmqWaxEL.png</thumbnail>
 </plugin>
 
-<plugin>
-<name>[B][COLORorangered]Real Debrid Login[/COLOR][/B]</name>
-<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
-<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
-</plugin>
 
-<dir>
-  <title>Search Trakt</title>
-  <trakt>search</trakt>
-</dir>
 
-<dir>
-      <title>Search</title>
-      <tmdb>search</tmdb>
-</dir>
-
-<dir>
-<title>Search Internet Movies</title>
-<tmdb>search</tmdb>
-</dir>
-
-<plugin>
-<name>Settings</name>
-<link>plugin://plugin.video.anubis/?action=openSettings</link>
-<thumbnail>http://files.softicons.com/download/system-icons/irob-icons-by-robsonbillponte/png/512/Settings.png</thumbnail>
-</plugin>
